@@ -1,0 +1,13 @@
+# Facebook投稿手順
+- 写真を選ぶ
+    - https://goo.gl/photos/XxhoxevkDw9r9Cra6から写真を選ぶ
+- テキストを書く
+    - 署名を最後に書く
+    - ゲスト回
+        - ゲストを理解してみんなにプレゼンをするメッセージ
+    - ダイジェスト？
+    - 総括？
+- Facebook投稿
+    - テキスト
+    - Soundcloud URL
+    - 写真
